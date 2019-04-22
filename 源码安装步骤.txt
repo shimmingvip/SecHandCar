@@ -1,0 +1,21 @@
+
+
+
+全国最大的商业软件源码开源平台：www.taoydm.com
+
+海量源码实时更新，精品源码天天上线。
+
+获取解压密码：请登录官网：www.taoydm.com ，打开“解压密码”栏目，里面有联系方式。
+
+
+有腰椎盘凸出，颈椎病，风湿性关节炎，坐骨神经，肩周炎，老寒腿等骨科方面问题的朋友，请添加微信:NBOOS9999，一招帮您搞定。
+
+有脚气（香港脚），灰指甲 等脚气方面的问题，请添加微信:NBOOS9999，一招帮您搞定。
+
+
+1.将my 文件夹，移动至 D盘根目录下
+
+2.在eclipse 引入的tomcat 的Host 中加入
+
+  <Context crossContext="true" docBase="D:\my\upload\" path="/upload" reloadable="true"/>
+      
