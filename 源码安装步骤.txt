@@ -1,21 +1,6 @@
+1.å°†my æ–‡ä»¶å¤¹ï¼Œç§»åŠ¨è‡³ Dç›˜æ ¹ç›®å½•ä¸‹
 
-
-
-È«¹ú×î´óµÄÉÌÒµÈí¼þÔ´Âë¿ªÔ´Æ½Ì¨£ºwww.taoydm.com
-
-º£Á¿Ô´ÂëÊµÊ±¸üÐÂ£¬¾«Æ·Ô´ÂëÌìÌìÉÏÏß¡£
-
-»ñÈ¡½âÑ¹ÃÜÂë£ºÇëµÇÂ¼¹ÙÍø£ºwww.taoydm.com £¬´ò¿ª¡°½âÑ¹ÃÜÂë¡±À¸Ä¿£¬ÀïÃæÓÐÁªÏµ·½Ê½¡£
-
-
-ÓÐÑü×µÅÌÍ¹³ö£¬¾±×µ²¡£¬·çÊªÐÔ¹Ø½ÚÑ×£¬×ø¹ÇÉñ¾­£¬¼çÖÜÑ×£¬ÀÏº®ÍÈµÈ¹Ç¿Æ·½ÃæÎÊÌâµÄÅóÓÑ£¬ÇëÌí¼ÓÎ¢ÐÅ:NBOOS9999£¬Ò»ÕÐ°ïÄú¸ã¶¨¡£
-
-ÓÐ½ÅÆø£¨Ïã¸Û½Å£©£¬»ÒÖ¸¼× µÈ½ÅÆø·½ÃæµÄÎÊÌâ£¬ÇëÌí¼ÓÎ¢ÐÅ:NBOOS9999£¬Ò»ÕÐ°ïÄú¸ã¶¨¡£
-
-
-1.½«my ÎÄ¼þ¼Ð£¬ÒÆ¶¯ÖÁ DÅÌ¸ùÄ¿Â¼ÏÂ
-
-2.ÔÚeclipse ÒýÈëµÄtomcat µÄHost ÖÐ¼ÓÈë
+2.åœ¨eclipse å¼•å…¥çš„tomcat çš„Host ä¸­åŠ å…¥
 
   <Context crossContext="true" docBase="D:\my\upload\" path="/upload" reloadable="true"/>
       
